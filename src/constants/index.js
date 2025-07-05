@@ -81,7 +81,7 @@ const experiences = [
     title: "B.Tech (CSE)",
     company_name: "Kalinga Institute of Industrial Technology University",
     icon: kiit,
-    date: "Sept 2022 - Present",
+    date: "2022 - 2026",
     points: [
       "Currently pursuing my 7th sem B.Tech in CSE, have participated in numerous hackathons with my fellow teammates like SIH and Providence LEAP Ideathon. Learning and developing Full Stack along with Machine Learning Algorithms. Part of Society like IoT Lab."
     ],
