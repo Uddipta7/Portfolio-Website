@@ -124,6 +124,15 @@ const learningJourney = {
       title: "Certified Angular Developer",
       issuer: "Infosys Springboard",
     },
+    {
+      title: "Red Hat System Administration I (RH124) course",
+      issuer: "Red Hat Academy",
+    },
+    {
+      title: "Introduction to DevOps",
+      issuer: "IBM",
+    },
+
   ],
   programs: [
     {
