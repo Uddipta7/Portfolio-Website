@@ -125,7 +125,7 @@ const learningJourney = {
       issuer: "Infosys Springboard",
     },
     {
-      title: "Red Hat System Administration I (RH124) course",
+      title: "Red Hat System Administration I",
       issuer: "Red Hat Academy",
     },
     {
