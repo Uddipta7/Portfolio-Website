@@ -7,7 +7,7 @@ export default function SocialMedia() {
   const downloadPdf = () => {
     try {
       
-      saveAs('/UDDIPTA_SINGHA_CV.pdf', 'resume.pdf');
+      saveAs('/Resume_without_photo.pdf', 'resume.pdf');
     } catch (error) {
       console.error('Error downloading PDF:', error);
     }
